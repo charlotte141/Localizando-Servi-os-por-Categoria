@@ -1,10 +1,10 @@
 # Microsoft Azure - Localizando Serviços por Categoria
 
-## Computação em nuvem
+## 🚀🚀 Computação em nuvem
 
 É o Fornecimento de serviços computacional pela internet, promovendo a flexibilidade e baixo custo em escala.
 
-### Existem 3 modelos de Nuvem 
+### Existem 3 modelos de Nuvem 💻
 
 #### Nuvem Privada
 Quando falamos de nuvem Privada estamos a falar de um serviço em clound local, na qual temos um DataCenter dedicada e de acesso consedido apenas aos funcionarios desta empresa.
@@ -19,7 +19,7 @@ Na Nuvem Pública é feito a entrega de recursos a varios clientes, todo mundo t
 #### Nuvem hibrida
 Aqui nos deparamos com um serviço que faz tanto uso da Nuvem Pública e Privada na qual tem um DataCenter dedicada e fazem uso de um serviço em Cloud pública. Isso da-se ao facto da demanda de serviço implementado pela empresa e do seu crescimento, para que se evite a implementação de mais inumeros servidores ou um novo DataCenter, é adquirido esta abordagem assim fazendo o uso dos dois tipos de Num.
 
-### Tipos de despezas de uma empresa
+### Tipos de despezas de uma empresa 💸
 
 #### CapEX
 Capital Expenditure, ou Gasto de Capital, é um investimento de longo prazo em ativos tangíveis, como edifícios e equipamentos. O CapEx é amortizado ao longo do tempo.
